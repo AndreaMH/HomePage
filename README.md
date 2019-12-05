@@ -1,4 +1,5 @@
 # HomePage
+Con menú principal y lateral
 
 ![](https://raw.githubusercontent.com/AndreaMH/HomePage/master/homePage.PNG)
 
