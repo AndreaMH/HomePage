@@ -1,0 +1,23 @@
+.boton :hover {
+    -fx-background-color: #78FB51;   
+}
+
+.pane1 {
+	-fx-background-image: url(1.jpg);
+	-fx-background-size: 100%;
+}
+
+.pane2 {
+	-fx-background-image: url(2.jpg);
+	-fx-background-size: 100%;
+}
+
+.pane3 {
+	-fx-background-image: url(3.jpg);
+	-fx-background-size: 100%;
+}
+
+.pane4 {
+	-fx-background-image: url(4.jpg);
+	-fx-background-size: 100%;
+}
