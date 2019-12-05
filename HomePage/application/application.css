@@ -1,5 +1,22 @@
-.boton :hover {
-    -fx-background-color: #78FB51;   
+.boton1:hover {
+    -fx-background-color: #86B878;   
+}
+
+.boton1 {
+	-fx-background-color: #FDC139;
+}
+
+.boton2:hover {
+    -fx-background-color: #86B878;   
+}
+
+.boton2 {
+	-fx-background-color: #883956;
+}
+
+.boton3:hover {
+	-fx-background-color: #86B878;
+	-fx-text-fill: white;
 }
 
 .pane1 {
